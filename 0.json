@@ -1,0 +1,15 @@
+{
+  "name": "0",
+  "symbol": "NFT",
+  "image": "https://raw.githubusercontent.com/vipin-imentus/Hiddenassets/main/0.png",
+  "properties": {
+    "files": [{ "uri": "5.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [{"address": "5JbMZz5VDouCB299Y417yVEuUmCFnTFEkfLh8A6SJ6iH", "share": 100}]
+  },
+  "description": "NFT Revealed",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+  ],
+  "collection": {"name ": "CMV2 hideen" ,"family":"Hidden nft"}
+}
